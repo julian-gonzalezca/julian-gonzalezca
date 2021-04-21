@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning eight technologies: HTML5, CSS3,  JavaScript, jQuery, AJAX, PHP, MySQL and Python. 
 - 💞️ I’m looking to collaborate on web development teams. 
 - 📫 How to reach me:
- -My e-mail: julian.gonzalezca@gmail.com
- -My phone number: +54 9 11 5979-8832
- -I live in Buenos Aires, Argentina. 
+ - My e-mail: julian.gonzalezca@gmail.com
+ - My phone number: +54 9 11 5979-8832
+ - I live in Buenos Aires, Argentina. 
  
  *Thank you for readme*
 
