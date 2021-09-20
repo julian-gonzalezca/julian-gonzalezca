@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julián González.
 - 👀 I’m interested in web development and software development.
-- 🌱 I’m currently learning eight technologies: HTML5, CSS3,  JavaScript, jQuery, AJAX, PHP, MySQL. 
+- 🌱 I’m currently learning seven technologies: HTML5, CSS3,  JavaScript, jQuery, AJAX, PHP, MySQL. 
 - 📫 How to reach me:
  - My e-mail: julian.gonzalezca@gmail.com
  - My phone number: +54 9 11 5979-8832
